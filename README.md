@@ -10,12 +10,15 @@ Energy prices were elastic and spiked enormously, but consumers cut back and pri
 Python (pandas, matplotlib, fredapi)
 FRED API (Federal Reserve Economic Data) 
 
-## Files
+# Files
 - consumeranalysis.py — main analysis script
 - cpi_chart.png — inflation by category since Jan 2021
 - pce_chart.png — consumer spending by category since Jan 2021
 - combined_chart.png — side by side comparison of CPI vs PCE
 
-## Data Sources
+# Data Sources
 - CPI data: U.S. Bureau of Labor Statistics via FRED
 - PCE data: U.S. Bureau of Economic Analysis via FRED
+
+
+
