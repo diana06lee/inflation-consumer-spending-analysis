@@ -1,6 +1,6 @@
 # inflation-consumer-spending-analysis
 
-# overview
+# Overview
 This project analyzes how American consumers responded to post-pandemic inflation through comparing CPI (price changes) anad PCE (spending changes) across categories from 2021-2026, using the Federal Reserve economic data.
 
 # Key Finding 
